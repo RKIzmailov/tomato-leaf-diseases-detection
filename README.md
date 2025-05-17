@@ -143,7 +143,3 @@ result = response.json()
 # result contains picture with detected Diseases.
 # also saved picture can be found in the predicted_images/ folder.
 ```
-
-
-## Acknowledgements
-I would like to express our gratitude to DataTalksClub and to Alexey Grigorev. You are the best.
